@@ -12,5 +12,8 @@ For all your Encryption / Decryption needs, for whatever reason.
 - ### System Support
   - EnDe Engine is currently supported for windows only, linux & macOS functionality remains yet to be implemented.
   - UTF-8 charset is only supported, unicode will cause problems
-- ### Community
+
+---
+
+## Community
   - For further engagement with the EnDe community & technical support, find us on Discord: https://discord.gg/keQfBZSm97
