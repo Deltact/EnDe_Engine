@@ -18,6 +18,7 @@ For all your Encryption / Decryption needs, for whatever reason.
 ---
 
 ## Community
-For further engagement with the EnDe community & technical support, find us on Discord: https://discord.gg/keQfBZSm97
+For further engagement with the EnDe community & technical support, find us on Discord: [keQfBZSm97](https://discord.gg/keQfBZSm97)
 
-We're open to all kinds of suggestions suggestions!
+#### [Found an issue or thought of an improvement?](https://github.com/Deltact/EnDe_Engine/issues/new/choose) 
+We're open to all kinds of suggestions!
