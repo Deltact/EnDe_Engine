@@ -2,7 +2,7 @@
 name: Feature Request
 about: Something on your mind about EnDe?
 title: ''
-labels: enhancement
+labels: Enhancement
 assignees: Deltact
 
 ---

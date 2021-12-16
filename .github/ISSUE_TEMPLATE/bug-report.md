@@ -2,7 +2,7 @@
 name: Bug Report
 about: Something's not working? Bring the digital wrench.
 title: ''
-labels: bug
+labels: Bug
 assignees: Deltact
 
 ---
@@ -17,6 +17,9 @@ Steps to reproduce the behavior:
 3. Pick Option [...]
 4. Type [...]
 5. See error 0x[code]
+
+**Program Properties**
+Version & Build: [Ex. v3b12]
 
 **Screenshots**
 These are practically mandatory, if not included, will effectively screech bug-fixing to a halt.
