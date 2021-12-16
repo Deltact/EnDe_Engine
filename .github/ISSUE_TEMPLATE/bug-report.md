@@ -21,7 +21,7 @@ Steps to reproduce the behavior:
 **Screenshots**
 These are practically mandatory, if not included, will effectively screech bug-fixing to a halt.
 
-**Desktop (please complete the following information):**
+**System**
  - OS: [Example: Windows 10 Pro]
  - OS Build: [(If applicable) Example: Build 21H1]
 
